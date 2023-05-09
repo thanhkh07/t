@@ -1,0 +1,18 @@
+vấn đề gì
+ý là muốn post file từ nhánh sang main mà k đk
+nhìn nhá
+đó nhánh thì push ok mà k push lên main đk
+m vào nhánh main r gõ git merge <tên nahnh>
+thử cả buổi chiều cx k đkr
+ơ đcm t thề chiều t làm mãi như thế k đk
+
+đc=m)
+đã đk đâu
+roi d
+ok theee
+m admà chưua push
+là sao
+là m tạo yêu cầu r
+mà m chưua đẩy lên 
+m đẩy t xem vs
+lam repo khác nha
